@@ -1,5 +1,5 @@
 # Hidden_SearchBar
-This was created to show a hidden/collapsible search bar.
+This was created to show a hidden/collapsible search bar feature.
 
 The search bar itself does not have any search functionality applied to it for the purposes of this project.
 
